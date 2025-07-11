@@ -8,6 +8,7 @@ sebagai kartu ucapan ulang tahun digital.
 
 ## 📁 Struktur File
 .
-├── index.html
-├── style.css
-└── README.md
+├── bday.html       # File utama HTML
+├── style.css        # File CSS untuk styling & animasi
+└── README.md        # Dokumentasi proyek
+
