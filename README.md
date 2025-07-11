@@ -7,6 +7,7 @@ sebagai kartu ucapan ulang tahun digital.
 ✨ [Lihat Live Demo di sini](https://username.github.io/birthday-cake)  
 
 ## 📁 Struktur File
-├── bday.html
+.
+├── index.html
 ├── style.css
 └── README.md
