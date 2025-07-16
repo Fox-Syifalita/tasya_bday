@@ -4,7 +4,7 @@ Animasi kue ulang tahun dengan efek lilin menyala, menggunakan **HTML + CSS** sa
 sebagai kartu ucapan ulang tahun digital.
 
 ## 📸 Demo
-✨ [Lihat Live Demo di sini](https://username.github.io/birthday-cake)  
+✨ [Lihat Live Demo di sini](https://fox-syifalita.github.io/for_tasya/)  
 
 ## 📁 Struktur File
 .
